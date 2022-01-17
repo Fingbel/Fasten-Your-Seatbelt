@@ -1,0 +1,4 @@
+ContextMenu_PTBR = {
+	ContextMenu_OpenSeatbelt = "Desaperte o <br>cinto de segurança "
+	ContextMenu_CloseSeatbelt = "Afivele seu <br>cinto de segurança"
+	}

@@ -1,0 +1,4 @@
+ContextMenu_IT = {
+	ContextMenu_OpenSeatbelt = "Slacciare la <br>cintura di sicurezza"
+	ContextMenu_CloseSeatbelt = "Allaccia la <br>tua cintura di sicurezza"
+	}

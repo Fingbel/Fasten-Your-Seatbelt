@@ -1,0 +1,4 @@
+ContextMenu_CS = {
+	ContextMenu_OpenSeatbelt = "Rozepnìte si <br>bezpeènostní pás"
+	ContextMenu_CloseSeatbelt = "Pøipoutej se"
+}

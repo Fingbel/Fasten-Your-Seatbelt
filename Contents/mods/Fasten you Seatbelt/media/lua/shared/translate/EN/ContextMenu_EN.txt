@@ -1,0 +1,4 @@
+ContextMenu_EN = {
+	ContextMenu_OpenSeatbelt = "Unfasten your seatbelt "
+	ContextMenu_CloseSeatbelt = "Fasten your seatbelt"
+	}

@@ -1,0 +1,5 @@
+ContextMenu_CN = {
+	ContextMenu_OpenSeatbelt = "解开你的安全带"
+	ContextMenu_CloseSeatbelt = "系好安全带"
+	}
+

@@ -1,0 +1,4 @@
+ContextMenu_RU = {
+	ContextMenu_OpenSeatbelt = "Расстегните <br>ремень безопасности"
+	ContextMenu_CloseSeatbelt = "Пристегните <br>ремень безопасности"
+}

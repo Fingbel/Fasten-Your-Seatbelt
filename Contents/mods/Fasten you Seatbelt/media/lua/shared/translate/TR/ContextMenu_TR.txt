@@ -1,0 +1,4 @@
+ContextMenu_TR = {
+	ContextMenu_OpenSeatbelt = "Emniyet <br>kemerini çöz "
+	ContextMenu_CloseSeatbelt = "Emniyet <br>kemerini bağla"
+	}

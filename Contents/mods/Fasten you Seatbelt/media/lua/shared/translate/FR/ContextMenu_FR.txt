@@ -1,0 +1,4 @@
+ContextMenu_FR = {
+	ContextMenu_OpenSeatbelt = "Détacher la ceinture "
+	ContextMenu_CloseSeatbelt = "Attacher la ceinture"
+	}

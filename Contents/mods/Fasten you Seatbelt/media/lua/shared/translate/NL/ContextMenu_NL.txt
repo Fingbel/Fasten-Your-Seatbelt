@@ -1,0 +1,4 @@
+ContextMenu_NL = {
+	ContextMenu_OpenSeatbelt = "Maak je gordel los"
+	ContextMenu_CloseSeatbelt = "Doe uw gordel om"
+	}
