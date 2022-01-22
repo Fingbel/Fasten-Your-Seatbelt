@@ -1,0 +1,4 @@
+ContextMenu_PL = {
+	ContextMenu_OpenSeatbelt = "Odepnij pas bezpieczeństwa"
+	ContextMenu_CloseSeatbelt = "Zapnij pas bezpieczeństwa"
+	}
