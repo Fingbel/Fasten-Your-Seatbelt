@@ -1,4 +1,4 @@
 ContextMenu_PL = {
-	ContextMenu_OpenSeatbelt = "Odepnij pas bezpieczeñstwa"
-	ContextMenu_CloseSeatbelt = "Zapnij pas bezpieczeñstwa"
+	ContextMenu_OpenSeatbelt = "Odepnij pas bezpieczeÅ„stwa"
+	ContextMenu_CloseSeatbelt = "Zapnij pas bezpieczeÅ„stwa"
 	}
