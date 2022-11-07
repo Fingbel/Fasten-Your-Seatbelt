@@ -24,6 +24,7 @@ function IsAttachingSeatBelt:perform()
 		
 	--FinishTimeBasedAction
 	ISBaseTimedAction.perform(self)
+	self.character:getModData().SeatBelted = 1
 	
 end
 
