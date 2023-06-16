@@ -24,7 +24,7 @@ function IsDetachingSeatBelt:perform()
 		
 	--FinishTimeBasedAction
 	ISBaseTimedAction.perform(self)
-	self.character:getModData().SeatBelted = 0
+	
 end
 
 function IsDetachingSeatBelt:new (character, time)

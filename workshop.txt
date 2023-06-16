@@ -1,6 +1,6 @@
 version=1
 id=2722218474
-title=Fasten your Seatbelt
+title=DEBUG - Fasten your Seatbelt
 description=[h2] What is this mod ? [/h2]
 description=[noparse]You now have the possibility to fasten your seatbelt ! [/noparse]
 description=
